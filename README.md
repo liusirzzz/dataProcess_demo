@@ -24,7 +24,6 @@ dataProcess_demo/
 ├── dataProcess.ipynb               # Notebook 1: 从原始 .nc 到处理后的 .h5
 ├── taskOriented_dataProcess.ipynb  # Notebook 2: 从 .h5 到 .tar 分片和模型训练
 ├── demo.nc                         # 示例原始 NetCDF 数据文件
-├── demo.h5                         # 示例处理后的 HDF5 文件 (Notebook 1 的输出)
 └── ... (其他生成的文件，如图片、stats.json)
 ```
 
